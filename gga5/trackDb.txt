@@ -1,11 +1,12 @@
 track Chicken_Super_Enhancer	
+superTrack on show
 shortLabel gga5_SE	
 longLabel chicken_gga5_super_enhancer	
 type bigBed 6	
 bigDataUrl SEA00601_gallus.SE.bb	
 color 0,0,0	
 visibility full	
-priority 45	
+priority 40	
 maxHeightPixels 100:60:25	
 autoScale on	
 alwaysZero on	
