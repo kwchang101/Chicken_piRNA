@@ -1,21 +1,20 @@
+track Chicken_Super_Enhancer	
+shortLabel gga5_SE	
+longLabel chicken_gga5_super_enhancer	
+type bigBed 6	
+bigDataUrl SEA00601_gallus.SE.bb	
+color 0,0,0	
+visibility full	
+priority 45	
+maxHeightPixels 100:60:25	
+autoScale on	
+alwaysZero on	
+
 track Chicken_Gonad_piRNA 
 superTrack on show
 shortLabel gga5_gonad_piRNA 
 longLabel gga5_gonad_piRNA 
 
-	track Chicken_Super_Enhancer	
-	parent Chicken_Gonad_piRNA	
-	shortLabel gga5_SE	
-	longLabel chicken_gga5_super_enhancer	
-	type bigBed 12	
-	bigDataUrl SEA00601_gallus.SE.bb	
-	color 0,0,0	
-	visibility full	
-	priority 45	
-	maxHeightPixels 100:60:25	
-	autoScale on	
-	alwaysZero on	
-		
 	track piRNA_Blastoderm_1	
 	parent Chicken_Gonad_piRNA	
 	container multiWig	
