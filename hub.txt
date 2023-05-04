@@ -1,0 +1,5 @@
+hub SE_piRNA_gga5
+shortLabel SE_piRNA_gga5
+longLabel Hub to display super enhancer associated piRNA in chicken
+genomesFile genomes.txt
+email d00b48009@ntu.edu.tw

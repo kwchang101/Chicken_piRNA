@@ -1,0 +1,2 @@
+genome gga5
+trackDb gga5/trackDb.txt
