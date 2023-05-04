@@ -1,0 +1,315 @@
+track Chicken_Gonad_piRNA 
+superTrack on show
+shortLabel gga5_gonad_piRNA 
+longLabel gga5_gonad_piRNA 
+
+	track Chicken_Super_Enhancer	
+	parent Chicken_Gonad_piRNA	
+	shortLabel gga5_SE	
+	longLabel chicken_gga5_super_enhancer	
+	type bigBed 12	
+	bigDataUrl SEA00601_gallus.SE.bb	
+	color 0,0,0	
+	visibility full	
+	priority 45	
+	maxHeightPixels 100:60:25	
+	autoScale on	
+	alwaysZero on	
+		
+	track piRNA_Blastoderm_1	
+	parent Chicken_Gonad_piRNA	
+	container multiWig	
+	shortLabel piRNA_Blastoderm_1	
+	longLabel piRNA_Blastoderm_1	
+	type bigWig	
+	visibility full	
+	maxHeightPixels 100:60:25	
+	configurable on	
+	autoScale on	
+	alwaysZero on	
+	aggregate transparentOverlay	
+	showSubtrackColorOnUi on	
+	priority 1.0	
+		
+		track piRNA_Blastoderm_1_plus
+		parent piRNA_Blastoderm_1
+		shortLabel piRNA_Blastoderm_1_plus
+		longLabel piRNA_Blastoderm_1_plus
+		type bigWig
+		bigDataUrl stgX2.plus.bw
+		color 200,50,0
+		autoScale on
+		
+		track piRNA_Blastoderm_1_minus
+		parent piRNA_Blastoderm_1
+		shortLabel piRNA_Blastoderm_1_minus
+		longLabel piRNA_Blastoderm_1_minus
+		type bigWig
+		bigDataUrl stgX2.minus.bw
+		color 200,50,0
+		autoScale on
+
+	track piRNA_Blastoderm_2	
+	parent Chicken_Gonad_piRNA	
+	container multiWig	
+	shortLabel piRNA_Blastoderm_2
+	longLabel piRNA_Blastoderm_2	
+	type bigWig	
+	visibility full	
+	maxHeightPixels 100:60:25	
+	configurable on	
+	autoScale on	
+	alwaysZero on	
+	aggregate transparentOverlay	
+	showSubtrackColorOnUi on	
+	priority 1.0	
+		
+		track piRNA_Blastoderm_2_plus
+		parent piRNA_Blastoderm_2
+		shortLabel piRNA_Blastoderm_2_plus
+		longLabel piRNA_Blastoderm_2_plus
+		type bigWig
+		bigDataUrl stgX3.plus.bw
+		color 200,50,0
+		autoScale on
+		
+		track piRNA_Blastoderm_2_minus
+		parent piRNA_Blastoderm_2
+		shortLabel piRNA_Blastoderm_2_minus
+		longLabel piRNA_Blastoderm_2_minus
+		type bigWig
+		bigDataUrl stgX3.minus.bw
+		color 200,50,0
+		autoScale on
+
+	track piRNA_E6PGC_1	
+	parent Chicken_Gonad_piRNA	
+	container multiWig	
+	shortLabel piRNA_E6PGC_1	
+	longLabel piRNA_E6PGC_1	
+	type bigWig	
+	visibility full	
+	maxHeightPixels 100:60:25	
+	configurable on	
+	autoScale on	
+	alwaysZero on	
+	aggregate transparentOverlay	
+	showSubtrackColorOnUi on	
+	priority 1.0	
+		
+		track piRNA_E6PGC_1_plus
+		parent piRNA_E6PGC_1
+		shortLabel piRNA_E6PGC_1_plus
+		longLabel piRNA_E6PGC_1_plus
+		type bigWig
+		bigDataUrl E6PGC1.plus.bw
+		color 200,50,0
+		autoScale on
+		
+		track piRNA_E6PGC_1_minus
+		parent piRNA_E6PGC_1
+		shortLabel piRNA_E6PGC_1_minus
+		longLabel piRNA_E6PGC_1_minus
+		type bigWig
+		bigDataUrl E6PGC1.minus.bw
+		color 200,50,0
+		autoScale on
+
+	track piRNA_E6PGC_2	
+	parent Chicken_Gonad_piRNA	
+	container multiWig	
+	shortLabel piRNA_E6PGC_2
+	longLabel piRNA_E6PGC_2
+	type bigWig	
+	visibility full	
+	maxHeightPixels 100:60:25	
+	configurable on	
+	autoScale on	
+	alwaysZero on	
+	aggregate transparentOverlay	
+	showSubtrackColorOnUi on	
+	priority 1.0	
+		
+		track piRNA_E6PGC_2_plus
+		parent piRNA_E6PGC_2
+		shortLabel piRNA_E6PGC_2_plus
+		longLabel piRNA_E6PGC_2_plus
+		type bigWig
+		bigDataUrl E6PGC2.plus.bw
+		color 200,50,0
+		autoScale on
+		
+		track piRNA_E6PGC_2_minus
+		parent piRNA_E6PGC_2
+		shortLabel piRNA_E6PGC_2_minus
+		longLabel piRNA_E6PGC_2_minus
+		type bigWig
+		bigDataUrl E6PGC2.minus.bw
+		color 200,50,0
+		autoScale on
+
+	track piRNA_E11G_1	
+	parent Chicken_Gonad_piRNA	
+	container multiWig	
+	shortLabel piRNA_E11G_1	
+	longLabel piRNA_E11G_1	
+	type bigWig	
+	visibility full	
+	maxHeightPixels 100:60:25	
+	configurable on	
+	autoScale on	
+	alwaysZero on	
+	aggregate transparentOverlay	
+	showSubtrackColorOnUi on	
+	priority 1.0	
+		
+		track piRNA_E11G_1_plus
+		parent piRNA_E11G_1
+		shortLabel piRNA_E11G_1_plus
+		longLabel piRNA_E11G_1_plus
+		type bigWig
+		bigDataUrl E11G1.plus.bw
+		color 200,50,0
+		autoScale on
+		
+		track piRNA_E11G_1_minus
+		parent piRNA_E11G_1
+		shortLabel piRNA_E11G_1_minus
+		longLabel piRNA_E11G_1_minus
+		type bigWig
+		bigDataUrl E11G1.minus.bw
+		color 200,50,0
+		autoScale on
+
+	track piRNA_E11G_2	
+	parent Chicken_Gonad_piRNA	
+	container multiWig	
+	shortLabel piRNA_E11G_2
+	longLabel piRNA_E11G_2
+	type bigWig	
+	visibility full	
+	maxHeightPixels 100:60:25	
+	configurable on	
+	autoScale on	
+	alwaysZero on	
+	aggregate transparentOverlay	
+	showSubtrackColorOnUi on	
+	priority 1.0	
+		
+		track piRNA_E11G_2_plus
+		parent piRNA_E11G_2
+		shortLabel piRNA_E11G_2_plus
+		longLabel piRNA_E11G_2_plus
+		type bigWig
+		bigDataUrl E11G2.plus.bw
+		color 200,50,0
+		autoScale on
+		
+		track piRNA_E11G_2_minus
+		parent piRNA_E11G_2
+		shortLabel piRNA_E11G_2_minus
+		longLabel piRNA_E11G_2_minus
+		type bigWig
+		bigDataUrl E11G2.minus.bw
+		color 200,50,0
+		autoScale on
+
+	track piRNA_E14G_1	
+	parent Chicken_Gonad_piRNA	
+	container multiWig	
+	shortLabel piRNA_E14G_1	
+	longLabel piRNA_E14G_1	
+	type bigWig	
+	visibility full	
+	maxHeightPixels 100:60:25	
+	configurable on	
+	autoScale on	
+	alwaysZero on	
+	aggregate transparentOverlay	
+	showSubtrackColorOnUi on	
+	priority 1.0	
+		
+		track piRNA_E14G_1_plus
+		parent piRNA_E14G_1
+		shortLabel piRNA_E14G_1_plus
+		longLabel piRNA_E14G_1_plus
+		type bigWig
+		bigDataUrl E14G1.plus.bw
+		color 200,50,0
+		autoScale on
+		
+		track piRNA_E14G_1_minus
+		parent piRNA_E14G_1
+		shortLabel piRNA_E14G_1_minus
+		longLabel piRNA_E14G_1_minus
+		type bigWig
+		bigDataUrl E14G1.minus.bw
+		color 200,50,0
+		autoScale on
+
+	track piRNA_E14G_2	
+	parent Chicken_Gonad_piRNA	
+	container multiWig	
+	shortLabel piRNA_E14G_2
+	longLabel piRNA_E14G_2
+	type bigWig	
+	visibility full	
+	maxHeightPixels 100:60:25	
+	configurable on	
+	autoScale on	
+	alwaysZero on	
+	aggregate transparentOverlay	
+	showSubtrackColorOnUi on	
+	priority 1.0	
+		
+		track piRNA_E14G_2_plus
+		parent piRNA_E14G_2
+		shortLabel piRNA_E14G_2_plus
+		longLabel piRNA_E14G_2_plus
+		type bigWig
+		bigDataUrl E14G2.plus.bw
+		color 200,50,0
+		autoScale on
+		
+		track piRNA_E14G_2_minus
+		parent piRNA_E14G_2
+		shortLabel piRNA_E14G_2_minus
+		longLabel piRNA_E14G_2_minus
+		type bigWig
+		bigDataUrl E14G2.minus.bw
+		color 200,50,0
+		autoScale on
+
+	track piRNA_Adult_testes	
+	parent Chicken_Gonad_piRNA	
+	container multiWig	
+	shortLabel piRNA_Adult_testes	
+	longLabel piRNA_Adult_testes	
+	type bigWig	
+	visibility full	
+	maxHeightPixels 100:60:25	
+	configurable on	
+	autoScale on	
+	alwaysZero on	
+	aggregate transparentOverlay	
+	showSubtrackColorOnUi on	
+	priority 1.0	
+		
+		track piRNA_Adult_testes_plus
+		parent piRNA_Adult_testes
+		shortLabel piRNA_Adult_testes_plus
+		longLabel piRNA_Adult_testes_plus
+		type bigWig
+		bigDataUrl Adult.plus.bw
+		color 200,50,0
+		autoScale on
+		
+		track piRNA_Adult_testes_minus
+		parent piRNA_Adult_testes
+		shortLabel piRNA_Adult_testes_minus
+		longLabel piRNA_Adult_testes_minus
+		type bigWig
+		bigDataUrl Adult.minus.bw
+		color 200,50,0
+		autoScale on
+
