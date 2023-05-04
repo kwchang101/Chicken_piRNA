@@ -1,2 +1,2 @@
-genome gga5
+genome galGal5
 trackDb gga5/trackDb.txt
