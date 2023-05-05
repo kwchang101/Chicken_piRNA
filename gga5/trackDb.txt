@@ -3,17 +3,100 @@ superTrack on show
 shortLabel gga5_SE	
 longLabel chicken_gga5_SE	
 
-	track Chicken_Super_Enhancer_SEA	
+	track Chicken_Dorsal_Skin_E7_Super_Enhancer
 	parent Chicken_Super_Enhancer
-	shortLabel gga5_SE_SEA	
-	longLabel chicken_gga5_super_enhancer	
+	shortLabel gga5_DSE7_SE	
+	longLabel gga5_Dorsal_Skin_E7_super_enhancer	
 	type bigBed	
-	bigDataUrl SEA00601_gallus.SE.bb	
+	bigDataUrl galgal5_DSE7.SE.bb	
 	color 0,0,0	
-	visibility full	
+	visibility dense
 	priority 40	
 	maxHeightPixels 100:60:25	
-	autoScale on	
+	alwaysZero on	
+
+	track Chicken_Dorsal_Skin_E9_Super_Enhancer
+	parent Chicken_Super_Enhancer
+	shortLabel gga5_DSE9_SE	
+	longLabel gga5_Dorsal_Skin_E9_super_enhancer	
+	type bigBed	
+	bigDataUrl galgal5_DSE9.SE.bb	
+	color 0,0,0	
+	visibility dense
+	priority 40	
+	maxHeightPixels 100:60:25	
+	alwaysZero on	
+
+	track Chicken_Tarsalmetatarsal_Skin_E9_Super_Enhancer
+	parent Chicken_Super_Enhancer
+	shortLabel gga5_TSE9_SE	
+	longLabel gga5_Tarsalmetatarsal_Skin_E9_super_enhancer	
+	type bigBed	
+	bigDataUrl galgal5_TSE9.SE.bb	
+	color 0,0,0	
+	visibility dense
+	priority 40	
+	maxHeightPixels 100:60:25	
+	alwaysZero on	
+
+	track Chicken_Tarsalmetatarsal_Skin_E11_Super_Enhancer
+	parent Chicken_Super_Enhancer
+	shortLabel gga5_TSE11_SE	
+	longLabel gga5_Tarsalmetatarsal_Skin_E11_super_enhancer	
+	type bigBed	
+	bigDataUrl galgal5_TSE11.SE.bb	
+	color 0,0,0	
+	visibility dense
+	priority 40	
+	maxHeightPixels 100:60:25	
+	alwaysZero on	
+
+	track Chicken_Naural_Crest_HH11-14_Super_Enhancer
+	parent Chicken_Super_Enhancer
+	shortLabel gga5_ENCCS11-14_SE	
+	longLabel gga5_Naural_Crest_HH11-14_super_enhancer	
+	type bigBed	
+	bigDataUrl galgal5_ENCCS11-14.SE.bb	
+	color 0,0,0	
+	visibility dense
+	priority 40	
+	maxHeightPixels 100:60:25	
+	alwaysZero on	
+
+	track Chicken_Naural_Crest_HH20_Super_Enhancer
+	parent Chicken_Super_Enhancer
+	shortLabel gga5_ENCCS20_SE	
+	longLabel gga5_Naural_Crest_HH20_super_enhancer	
+	type bigBed	
+	bigDataUrl galgal5_ENCCS20.SE.bb	
+	color 0,0,0	
+	visibility dense
+	priority 40	
+	maxHeightPixels 100:60:25	
+	alwaysZero on	
+
+	track Chicken_Spinal_Naural_Tube_Super_Enhancer
+	parent Chicken_Super_Enhancer
+	shortLabel gga5_SNT_SE	
+	longLabel gga5_Spinal_Naural_Tube_super_enhancer	
+	type bigBed	
+	bigDataUrl galgal5_SNT.SE.bb	
+	color 0,0,0	
+	visibility dense
+	priority 40	
+	maxHeightPixels 100:60:25	
+	alwaysZero on	
+
+	track Chicken_Mesenchymal_Cell_Super_Enhancer
+	parent Chicken_Super_Enhancer
+	shortLabel gga5_MC_SE	
+	longLabel gga5_Mesenchymal_Cell_super_enhancer	
+	type bigBed	
+	bigDataUrl galgal5_MC.SE.bb	
+	color 0,0,0	
+	visibility dense
+	priority 40	
+	maxHeightPixels 100:60:25	
 	alwaysZero on	
 
 track Chicken_Gonad_piRNA 
