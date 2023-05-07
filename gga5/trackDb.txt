@@ -134,7 +134,7 @@ longLabel gga5_gonad_piRNA
 		longLabel piRNA_Blastoderm_1_minus
 		type bigWig
 		bigDataUrl stgX2.minus.bw
-		color 200,50,0
+		color 50,200,0
 		autoScale on
 
 	track piRNA_Blastoderm_2	
@@ -167,7 +167,7 @@ longLabel gga5_gonad_piRNA
 		longLabel piRNA_Blastoderm_2_minus
 		type bigWig
 		bigDataUrl stgX3.minus.bw
-		color 200,50,0
+		color 50,200,0
 		autoScale on
 
 	track piRNA_E6PGC_1	
@@ -200,7 +200,7 @@ longLabel gga5_gonad_piRNA
 		longLabel piRNA_E6PGC_1_minus
 		type bigWig
 		bigDataUrl E6PGC1.minus.bw
-		color 200,50,0
+		color 50,200,0
 		autoScale on
 
 	track piRNA_E6PGC_2	
@@ -233,7 +233,7 @@ longLabel gga5_gonad_piRNA
 		longLabel piRNA_E6PGC_2_minus
 		type bigWig
 		bigDataUrl E6PGC2.minus.bw
-		color 200,50,0
+		color 50,200,0
 		autoScale on
 
 	track piRNA_E11G_1	
@@ -266,7 +266,7 @@ longLabel gga5_gonad_piRNA
 		longLabel piRNA_E11G_1_minus
 		type bigWig
 		bigDataUrl E11G1.minus.bw
-		color 200,50,0
+		color 50,200,0
 		autoScale on
 
 	track piRNA_E11G_2	
@@ -299,7 +299,7 @@ longLabel gga5_gonad_piRNA
 		longLabel piRNA_E11G_2_minus
 		type bigWig
 		bigDataUrl E11G2.minus.bw
-		color 200,50,0
+		color 50,200,0
 		autoScale on
 
 	track piRNA_E14G_1	
@@ -332,7 +332,7 @@ longLabel gga5_gonad_piRNA
 		longLabel piRNA_E14G_1_minus
 		type bigWig
 		bigDataUrl E14G1.minus.bw
-		color 200,50,0
+		color 50,200,0
 		autoScale on
 
 	track piRNA_E14G_2	
@@ -365,7 +365,7 @@ longLabel gga5_gonad_piRNA
 		longLabel piRNA_E14G_2_minus
 		type bigWig
 		bigDataUrl E14G2.minus.bw
-		color 200,50,0
+		color 50,200,0
 		autoScale on
 
 	track piRNA_Adult_testes	
