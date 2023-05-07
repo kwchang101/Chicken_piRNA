@@ -398,6 +398,6 @@ longLabel gga5_gonad_piRNA
 		longLabel piRNA_Adult_testes_minus
 		type bigWig
 		bigDataUrl Adult.minus.bw
-		color 200,50,0
+		color 50,200,0
 		autoScale on
 
