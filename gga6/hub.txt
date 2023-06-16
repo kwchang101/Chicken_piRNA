@@ -1,0 +1,5 @@
+hub gga6_piRNA
+shortLabel gga6_piRNA
+longLabel Galgal6_germline_piRNA
+genomesFile genomes.txt
+email kai-wei.chang@hotmail.com

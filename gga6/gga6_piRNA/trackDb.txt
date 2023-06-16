@@ -1,0 +1,312 @@
+track gga6_piRNA 
+superTrack on show
+shortLabel gga6_piRNA
+longLabel gga6_piRNA_3-end-2-O-enriched 
+
+	track BC1_piRNA
+	parent gga6_piRNA 
+	container multiWig
+	shortLabel BC1_gga6_piRNA 
+	longLabel BC1_gga6_piRNA 
+	type bigWig
+	visibility full
+	maxHeightPixels 100:60:25
+	configurable on
+	autoScale off
+	alwaysZero on
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	priority 1.0
+
+		track BC1_piRNA_pos
+		parent BC1_piRNA
+		shortLabel BC1_piRNA_pos
+		longLabel BC1_piRNA_pos
+		type bigWig
+		bigDataUrl SRR5460805.plus.bw
+		color 200,50,0
+		autoScale on
+
+		track BC1_piRNA_neg
+		parent BC1_piRNA
+		shortLabel BC1_piRNA_neg
+		longLabel BC1_piRNA_neg
+		type bigWig
+		bigDataUrl SRR5460805.minus.bw
+		color 50,200,0
+		autoScale on
+
+	track BC2_piRNA
+	parent gga6_piRNA 
+	container multiWig
+	shortLabel BC2_gga6_piRNA 
+	longLabel BC2_gga6_piRNA 
+	type bigWig
+	visibility full
+	maxHeightPixels 100:60:25
+	configurable on
+	autoScale off
+	alwaysZero on
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	priority 1.0
+
+		track BC2_piRNA_pos
+		parent BC2_piRNA
+		shortLabel BC2_piRNA_pos
+		longLabel BC2_piRNA_pos
+		type bigWig
+		bigDataUrl SRR5460806.plus.bw
+		color 200,50,0
+		autoScale on
+
+		track BC2_piRNA_neg
+		parent BC2_piRNA
+		shortLabel BC2_piRNA_neg
+		longLabel BC2_piRNA_neg
+		type bigWig
+		bigDataUrl SRR5460806.minus.bw
+		color 50,200,0
+		autoScale on
+
+	track E6PGC1_piRNA
+	parent gga6_piRNA 
+	container multiWig
+	shortLabel E6PGC1_gga6_piRNA 
+	longLabel E6PGC1_gga6_piRNA 
+	type bigWig
+	visibility full
+	maxHeightPixels 100:60:25
+	configurable on
+	autoScale off
+	alwaysZero on
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	priority 1.0
+
+		track E6PGC1_piRNA_pos
+		parent E6PGC1_piRNA
+		shortLabel E6PGC1_piRNA_pos
+		longLabel E6PGC1_piRNA_pos
+		type bigWig
+		bigDataUrl SRR6335156.plus.bw
+		color 200,50,0
+		autoScale on
+
+		track E6PGC1_piRNA_neg
+		parent E6PGC1_piRNA
+		shortLabel E6PGC1_piRNA_neg
+		longLabel E6PGC1_piRNA_neg
+		type bigWig
+		bigDataUrl SRR6335156.minus.bw
+		color 50,200,0
+		autoScale on
+
+	track E6PGC2_piRNA
+	parent gga6_piRNA 
+	container multiWig
+	shortLabel E6PGC2_gga6_piRNA 
+	longLabel E6PGC2_gga6_piRNA 
+	type bigWig
+	visibility full
+	maxHeightPixels 100:60:25
+	configurable on
+	autoScale off
+	alwaysZero on
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	priority 1.0
+
+		track E6PGC2_piRNA_pos
+		parent E6PGC2_piRNA
+		shortLabel E6PGC2_piRNA_pos
+		longLabel E6PGC2_piRNA_pos
+		type bigWig
+		bigDataUrl SRR6335157.plus.bw
+		color 200,50,0
+		autoScale on
+
+		track E6PGC2_piRNA_neg
+		parent E6PGC2_piRNA
+		shortLabel E6PGC2_piRNA_neg
+		longLabel E6PGC2_piRNA_neg
+		type bigWig
+		bigDataUrl SRR6335157.minus.bw
+		color 50,200,0
+		autoScale on
+
+	track E11G1_piRNA
+	parent gga6_piRNA 
+	container multiWig
+	shortLabel E11G1_gga6_piRNA 
+	longLabel E11G1_gga6_piRNA 
+	type bigWig
+	visibility full
+	maxHeightPixels 100:60:25
+	configurable on
+	autoScale off
+	alwaysZero on
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	priority 1.0
+
+		track E11G1_piRNA_pos
+		parent E11G1_piRNA
+		shortLabel E11G1_piRNA_pos
+		longLabel E11G1_piRNA_pos
+		type bigWig
+		bigDataUrl SRR5460807.plus.bw
+		color 200,50,0
+		autoScale on
+
+		track E11G1_piRNA_neg
+		parent E11G1_piRNA
+		shortLabel E11G1_piRNA_neg
+		longLabel E11G1_piRNA_neg
+		type bigWig
+		bigDataUrl SRR5460807.minus.bw
+		color 50,200,0
+		autoScale on
+
+	track E11G2_piRNA
+	parent gga6_piRNA 
+	container multiWig
+	shortLabel E11G2_gga6_piRNA 
+	longLabel E11G2_gga6_piRNA 
+	type bigWig
+	visibility full
+	maxHeightPixels 100:60:25
+	configurable on
+	autoScale off
+	alwaysZero on
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	priority 1.0
+
+		track E11G2_piRNA_pos
+		parent E11G2_piRNA
+		shortLabel E11G2_piRNA_pos
+		longLabel E11G2_piRNA_pos
+		type bigWig
+		bigDataUrl SRR5460808.plus.bw
+		color 200,50,0
+		autoScale on
+
+		track E11G2_piRNA_neg
+		parent E11G2_piRNA
+		shortLabel E11G2_piRNA_neg
+		longLabel E11G2_piRNA_neg
+		type bigWig
+		bigDataUrl SRR5460808.minus.bw
+		color 50,200,0
+		autoScale on
+
+	track E14G1_piRNA
+	parent gga6_piRNA 
+	container multiWig
+	shortLabel E14G1_gga6_piRNA 
+	longLabel E14G1_gga6_piRNA 
+	type bigWig
+	visibility full
+	maxHeightPixels 100:60:25
+	configurable on
+	autoScale off
+	alwaysZero on
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	priority 1.0
+
+		track E14G1_piRNA_pos
+		parent E14G1_piRNA
+		shortLabel E14G1_piRNA_pos
+		longLabel E14G1_piRNA_pos
+		type bigWig
+		bigDataUrl SRR5460809.plus.bw
+		color 200,50,0
+		autoScale on
+
+		track E14G1_piRNA_neg
+		parent E14G1_piRNA
+		shortLabel E14G1_piRNA_neg
+		longLabel E14G1_piRNA_neg
+		type bigWig
+		bigDataUrl SRR5460809.minus.bw
+		color 50,200,0
+		autoScale on
+
+	track E14G2_piRNA
+	parent gga6_piRNA 
+	container multiWig
+	shortLabel E14G2_gga6_piRNA 
+	longLabel E14G2_gga6_piRNA 
+	type bigWig
+	visibility full
+	maxHeightPixels 100:60:25
+	configurable on
+	autoScale off
+	alwaysZero on
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	priority 1.0
+
+		track E14G2_piRNA_pos
+		parent E14G2_piRNA
+		shortLabel E14G2_piRNA_pos
+		longLabel E14G2_piRNA_pos
+		type bigWig
+		bigDataUrl SRR5460810.plus.bw
+		color 200,50,0
+		autoScale on
+
+		track E14G2_piRNA_neg
+		parent E14G2_piRNA
+		shortLabel E14G2_piRNA_neg
+		longLabel E14G2_piRNA_neg
+		type bigWig
+		bigDataUrl SRR5460810.minus.bw
+		color 50,200,0
+		autoScale on
+
+	track AT_piRNA
+	parent gga6_piRNA 
+	container multiWig
+	shortLabel AT_gga6_piRNA 
+	longLabel AT_gga6_piRNA 
+	type bigWig
+	visibility full
+	maxHeightPixels 100:60:25
+	configurable on
+	autoScale off
+	alwaysZero on
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	priority 1.0
+
+		track AT_piRNA_pos
+		parent AT_piRNA
+		shortLabel AT_piRNA_pos
+		longLabel AT_piRNA_pos
+		type bigWig
+		bigDataUrl SRR772069.plus.bw
+		color 200,50,0
+		autoScale on
+
+		track AT_piRNA_neg
+		parent AT_piRNA
+		shortLabel AT_piRNA_neg
+		longLabel AT_piRNA_neg
+		type bigWig
+		bigDataUrl SRR772069.minus.bw
+		color 50,200,0
+		autoScale on
+
+track gga_superenhancer
+shortLabel gga_superenhancers
+longLabel gga_superenhancer_SEA00601_lifted
+type bigBed
+bigDataUrl SEA00601_gallus.gga5LiftGga6.SE.bb
+color 255,255,255
+visibility dense
+configurable on
+
+

@@ -1,0 +1,2 @@
+genome gga6
+trackDb gga6_RNA/trackDb.txt
