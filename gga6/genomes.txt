@@ -1,2 +1,2 @@
-genome gga6
+genome galGal6
 trackDb gga6_RNA/trackDb.txt
