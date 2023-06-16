@@ -305,7 +305,7 @@ shortLabel gga_superenhancers
 longLabel gga_superenhancer_SEA00601_lifted
 type bigBed
 bigDataUrl SEA00601_gallus.gga5LiftGga6.SE.bb
-color 255,255,0
+color 255,0,255
 visibility dense
 configurable on
 
