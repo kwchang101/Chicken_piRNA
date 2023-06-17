@@ -300,13 +300,141 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		color 50,200,0
 		autoScale on
 
-track gga_superenhancer
+track SEA00601_gga5To6_superenhancer
+superTrack on show
 shortLabel gga_superenhancers
-longLabel gga_superenhancer_SEA00601_lifted
-type bigBed
-bigDataUrl SEA00601_gallus.gga5LiftGga6.SE.bb
-color 0,0,255
-visibility dense
-configurable on
+longLabel gga_superenhancer_SEA00601_gga5To6
+	
+	track DSE7.SE
+	parent SEA00601_gga5To6_superenhancer
+	shortLabel DSE7.SE.SEA00601
+	longLabel DSE7.SE.SEA00601
+	type bigBed
+	bigDataUrl SEA00601.SE.gga5To6.DSE7.bb
+	color 5,5,5
+	visibility dense
+	configurable on
+
+	track DSE9.SE
+	parent SEA00601_gga5To6_superenhancer
+	shortLabel DSE9.SE.SEA00601
+	longLabel DSE9.SE.SEA00601
+	type bigBed
+	bigDataUrl SEA00601.SE.gga5To6.DSE9.bb
+	color 5,5,5
+	visibility dense
+	configurable on
+
+	track TSE9.SE
+	parent SEA00601_gga5To6_superenhancer
+	shortLabel TSE9.SE.SEA00601
+	longLabel TSE9.SE.SEA00601
+	type bigBed
+	bigDataUrl SEA00601.SE.gga5To6.TSE9.bb
+	color 5,5,5
+	visibility dense
+	configurable on
+
+	track TSE11.SE
+	parent SEA00601_gga5To6_superenhancer
+	shortLabel TSE11.SE.SEA00601
+	longLabel TSE11.SE.SEA00601
+	type bigBed
+	bigDataUrl SEA00601.SE.gga5To6.TSE11.bb
+	color 5,5,5
+	visibility dense
+	configurable on
+
+	track MC.SE
+	parent SEA00601_gga5To6_superenhancer
+	shortLabel MC.SE.SEA00601
+	longLabel MC.SE.SEA00601
+	type bigBed
+	bigDataUrl SEA00601.SE.gga5To6.MC.bb
+	color 5,5,5
+	visibility dense
+	configurable on
+
+	track SNT.SE
+	parent SEA00601_gga5To6_superenhancer
+	shortLabel SNT.SE.SEA00601
+	longLabel SNT.SE.SEA00601
+	type bigBed
+	bigDataUrl SEA00601.SE.gga5To6.SNT.bb
+	color 5,5,5
+	visibility dense
+	configurable on
+
+	track ENCCS11-14.SE
+	parent SEA00601_gga5To6_superenhancer
+	shortLabel ENCCS11-14.SE.SEA00601
+	longLabel ENCCS11-14.SE.SEA00601
+	type bigBed
+	bigDataUrl SEA00601.SE.gga5To6.ENCCS11-14.bb
+	color 5,5,5
+	visibility dense
+	configurable on
+
+	track ENCCS20.SE
+	parent SEA00601_gga5To6_superenhancer
+	shortLabel ENCCS20.SE.SEA00601
+	longLabel ENCCS20.SE.SEA00601
+	type bigBed
+	bigDataUrl SEA00601.SE.gga5To6.ENCCS20.bb
+	color 5,5,5
+	visibility dense
+	configurable on
+
+	track HH16WE.SE
+	parent SEA00601_gga5To6_superenhancer
+	shortLabel HH16WE.SE.SEA00601
+	longLabel HH16WE.SE.SEA00601
+	type bigBed
+	bigDataUrl SEA00601.SE.gga5To6.HH16WE.bb
+	color 5,5,5
+	visibility dense
+	configurable on
+
+	track HH21WE.SE
+	parent SEA00601_gga5To6_superenhancer
+	shortLabel HH21WE.SE.SEA00601
+	longLabel HH21WE.SE.SEA00601
+	type bigBed
+	bigDataUrl SEA00601.SE.gga5To6.HH21WE.bb
+	color 5,5,5
+	visibility dense
+	configurable on
+
+	track HH32WE.SE
+	parent SEA00601_gga5To6_superenhancer
+	shortLabel HH32WE.SE.SEA00601
+	longLabel HH32WE.SE.SEA00601
+	type bigBed
+	bigDataUrl SEA00601.SE.gga5To6.HH32WE.bb
+	color 5,5,5
+	visibility dense
+	configurable on
+
+	track HH21DL.SE
+	parent SEA00601_gga5To6_superenhancer
+	shortLabel HH21DL.SE.SEA00601
+	longLabel HH21DL.SE.SEA00601
+	type bigBed
+	bigDataUrl SEA00601.SE.gga5To6.HH21DL.bb
+	color 5,5,5
+	visibility dense
+	configurable on
+
+	track HH32DL.SE
+	parent SEA00601_gga5To6_superenhancer
+	shortLabel HH32DL.SE.SEA00601
+	longLabel HH32DL.SE.SEA00601
+	type bigBed
+	bigDataUrl SEA00601.SE.gga5To6.HH32DL.bb
+	color 5,5,5
+	visibility dense
+	configurable on
+
+
 
 
