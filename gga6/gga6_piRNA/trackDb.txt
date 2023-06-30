@@ -23,7 +23,7 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		shortLabel BC1_piRNA_pos
 		longLabel BC1_piRNA_pos
 		type bigWig
-		bigDataUrl SRR5460805.plus.bw
+		bigDataUrl BC1.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -32,7 +32,7 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		shortLabel BC1_piRNA_neg
 		longLabel BC1_piRNA_neg
 		type bigWig
-		bigDataUrl SRR5460805.minus.bw
+		bigDataUrl BC1.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
@@ -56,7 +56,7 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		shortLabel BC2_piRNA_pos
 		longLabel BC2_piRNA_pos
 		type bigWig
-		bigDataUrl SRR5460806.plus.bw
+		bigDataUrl BC2.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -65,15 +65,15 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		shortLabel BC2_piRNA_neg
 		longLabel BC2_piRNA_neg
 		type bigWig
-		bigDataUrl SRR5460806.minus.bw
+		bigDataUrl BC2.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
-	track E6PGC1_piRNA
+	track E7PGC1_piRNA
 	parent gga6_piRNA 
 	container multiWig
-	shortLabel E6PGC1_gga6_piRNA 
-	longLabel E6PGC1_gga6_piRNA 
+	shortLabel E7PGC1_gga6_piRNA 
+	longLabel E7PGC1_gga6_piRNA 
 	type bigWig
 	visibility full
 	maxHeightPixels 100:60:25
@@ -84,29 +84,29 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 	showSubtrackColorOnUi on
 	priority 1.0
 
-		track E6PGC1_piRNA_pos
-		parent E6PGC1_piRNA
-		shortLabel E6PGC1_piRNA_pos
-		longLabel E6PGC1_piRNA_pos
+		track E7PGC1_piRNA_pos
+		parent E7PGC1_piRNA
+		shortLabel E7PGC1_piRNA_pos
+		longLabel E7PGC1_piRNA_pos
 		type bigWig
-		bigDataUrl SRR6335156.plus.bw
+		bigDataUrl E7PGC1.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
-		track E6PGC1_piRNA_neg
-		parent E6PGC1_piRNA
-		shortLabel E6PGC1_piRNA_neg
-		longLabel E6PGC1_piRNA_neg
+		track E7PGC1_piRNA_neg
+		parent E7PGC1_piRNA
+		shortLabel E7PGC1_piRNA_neg
+		longLabel E7PGC1_piRNA_neg
 		type bigWig
-		bigDataUrl SRR6335156.minus.bw
+		bigDataUrl E7PGC1.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
-	track E6PGC2_piRNA
+	track E7PGC2_piRNA
 	parent gga6_piRNA 
 	container multiWig
-	shortLabel E6PGC2_gga6_piRNA 
-	longLabel E6PGC2_gga6_piRNA 
+	shortLabel E7PGC2_gga6_piRNA 
+	longLabel E7PGC2_gga6_piRNA 
 	type bigWig
 	visibility full
 	maxHeightPixels 100:60:25
@@ -117,21 +117,21 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 	showSubtrackColorOnUi on
 	priority 1.0
 
-		track E6PGC2_piRNA_pos
-		parent E6PGC2_piRNA
-		shortLabel E6PGC2_piRNA_pos
-		longLabel E6PGC2_piRNA_pos
+		track E7PGC2_piRNA_pos
+		parent E7PGC2_piRNA
+		shortLabel E7PGC2_piRNA_pos
+		longLabel E7PGC2_piRNA_pos
 		type bigWig
-		bigDataUrl SRR6335157.plus.bw
+		bigDataUrl E7PGC2.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
-		track E6PGC2_piRNA_neg
-		parent E6PGC2_piRNA
-		shortLabel E6PGC2_piRNA_neg
-		longLabel E6PGC2_piRNA_neg
+		track E7PGC2_piRNA_neg
+		parent E7PGC2_piRNA
+		shortLabel E7PGC2_piRNA_neg
+		longLabel E7PGC2_piRNA_neg
 		type bigWig
-		bigDataUrl SRR6335157.minus.bw
+		bigDataUrl E7PGC2.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
@@ -155,7 +155,7 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		shortLabel E11G1_piRNA_pos
 		longLabel E11G1_piRNA_pos
 		type bigWig
-		bigDataUrl SRR5460807.plus.bw
+		bigDataUrl E11G1.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -164,7 +164,7 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		shortLabel E11G1_piRNA_neg
 		longLabel E11G1_piRNA_neg
 		type bigWig
-		bigDataUrl SRR5460807.minus.bw
+		bigDataUrl E11G1.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
@@ -188,7 +188,7 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		shortLabel E11G2_piRNA_pos
 		longLabel E11G2_piRNA_pos
 		type bigWig
-		bigDataUrl SRR5460808.plus.bw
+		bigDataUrl E11G2.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -197,7 +197,7 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		shortLabel E11G2_piRNA_neg
 		longLabel E11G2_piRNA_neg
 		type bigWig
-		bigDataUrl SRR5460808.minus.bw
+		bigDataUrl E11G2.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
@@ -221,7 +221,7 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		shortLabel E14G1_piRNA_pos
 		longLabel E14G1_piRNA_pos
 		type bigWig
-		bigDataUrl SRR5460809.plus.bw
+		bigDataUrl E14G1.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -230,7 +230,7 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		shortLabel E14G1_piRNA_neg
 		longLabel E14G1_piRNA_neg
 		type bigWig
-		bigDataUrl SRR5460809.minus.bw
+		bigDataUrl E14G1.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
@@ -254,7 +254,7 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		shortLabel E14G2_piRNA_pos
 		longLabel E14G2_piRNA_pos
 		type bigWig
-		bigDataUrl SRR5460810.plus.bw
+		bigDataUrl E14G2.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -263,7 +263,7 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		shortLabel E14G2_piRNA_neg
 		longLabel E14G2_piRNA_neg
 		type bigWig
-		bigDataUrl SRR5460810.minus.bw
+		bigDataUrl E14G2.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
@@ -287,7 +287,7 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		shortLabel AT_piRNA_pos
 		longLabel AT_piRNA_pos
 		type bigWig
-		bigDataUrl SRR772069.plus.bw
+		bigDataUrl AT.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -296,7 +296,7 @@ longLabel gga6_piRNA_3-end-2-O-enriched
 		shortLabel AT_piRNA_neg
 		longLabel AT_piRNA_neg
 		type bigWig
-		bigDataUrl SRR772069.minus.bw
+		bigDataUrl AT.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
