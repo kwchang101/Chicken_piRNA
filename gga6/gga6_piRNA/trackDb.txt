@@ -325,7 +325,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK0_piRNA_pos
 		longLabel WK0_piRNA_pos
 		type bigWig
-		bigDataUrl WK0.ox.gga6.plus.bigWig
+		bigDataUrl WK0.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -334,7 +334,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK0_piRNA_neg
 		longLabel WK0_piRNA_neg
 		type bigWig
-		bigDataUrl WK0.ox.gga6.minus.bigWig
+		bigDataUrl WK0.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
@@ -358,7 +358,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK6_piRNA_pos
 		longLabel WK6_piRNA_pos
 		type bigWig
-		bigDataUrl WK6.ox.gga6.plus.bigWig
+		bigDataUrl WK6.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -367,7 +367,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK6_piRNA_neg
 		longLabel WK6_piRNA_neg
 		type bigWig
-		bigDataUrl WK6.ox.gga6.minus.bigWig
+		bigDataUrl WK6.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
@@ -391,7 +391,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK8_piRNA_pos
 		longLabel WK8_piRNA_pos
 		type bigWig
-		bigDataUrl WK8.ox.gga6.plus.bigWig
+		bigDataUrl WK8.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -400,7 +400,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK8_piRNA_neg
 		longLabel WK8_piRNA_neg
 		type bigWig
-		bigDataUrl WK8.ox.gga6.minus.bigWig
+		bigDataUrl WK8.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
@@ -424,7 +424,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK10_piRNA_pos
 		longLabel WK10_piRNA_pos
 		type bigWig
-		bigDataUrl WK10.ox.gga6.plus.bigWig
+		bigDataUrl WK10.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -433,7 +433,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK10_piRNA_neg
 		longLabel WK10_piRNA_neg
 		type bigWig
-		bigDataUrl WK10.ox.gga6.minus.bigWig
+		bigDataUrl WK10.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
@@ -457,7 +457,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK12_piRNA_pos
 		longLabel WK12_piRNA_pos
 		type bigWig
-		bigDataUrl WK12.ox.gga6.plus.bigWig
+		bigDataUrl WK12.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -466,7 +466,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK12_piRNA_neg
 		longLabel WK12_piRNA_neg
 		type bigWig
-		bigDataUrl WK12.ox.gga6.minus.bigWig
+		bigDataUrl WK12.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
@@ -490,7 +490,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK14_piRNA_pos
 		longLabel WK14_piRNA_pos
 		type bigWig
-		bigDataUrl WK14.ox.gga6.plus.bigWig
+		bigDataUrl WK14.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -499,7 +499,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK14_piRNA_neg
 		longLabel WK14_piRNA_neg
 		type bigWig
-		bigDataUrl WK14.ox.gga6.minus.bigWig
+		bigDataUrl WK14.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
@@ -523,7 +523,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK18_piRNA_pos
 		longLabel WK18_piRNA_pos
 		type bigWig
-		bigDataUrl WK18.ox.gga6.plus.bigWig
+		bigDataUrl WK18.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -532,7 +532,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK18_piRNA_neg
 		longLabel WK18_piRNA_neg
 		type bigWig
-		bigDataUrl WK18.ox.gga6.minus.bigWig
+		bigDataUrl WK18.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
@@ -556,7 +556,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK30_piRNA_pos
 		longLabel WK30_piRNA_pos
 		type bigWig
-		bigDataUrl WK30.ox.gga6.plus.bigWig
+		bigDataUrl WK30.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -565,7 +565,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel WK30_piRNA_neg
 		longLabel WK30_piRNA_neg
 		type bigWig
-		bigDataUrl WK30.ox.gga6.minus.bigWig
+		bigDataUrl WK30.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
@@ -589,7 +589,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel AT_2_piRNA_pos
 		longLabel AT_2_piRNA_pos
 		type bigWig
-		bigDataUrl AT_2.ox.gga6.plus.bigWig
+		bigDataUrl AT_2.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
@@ -598,7 +598,7 @@ longLabel GSE165330_gga6_piRNA_oxidized
 		shortLabel AT_2_piRNA_neg
 		longLabel AT_2_piRNA_neg
 		type bigWig
-		bigDataUrl AT_2.ox.gga6.minus.bigWig
+		bigDataUrl AT_2.pMatch.24-34.minus.bw
 		color 50,200,0
 		autoScale on
 
