@@ -742,132 +742,132 @@ superTrack on show
 shortLabel gga_typical_enhancers
 longLabel gga_typical_enhancer_SEA00601_gga5To6
 	
-	track DSE7.SE
+	track DSE7.E
 	parent SEA00601_gga5To6_typical_enhancer
-	shortLabel DSE7.SE.SEA00601
-	longLabel DSE7.SE.SEA00601
+	shortLabel DSE7.E.SEA00601
+	longLabel DSE7.E.SEA00601
 	type bigBed
-	bigDataUrl SEA00601.SE.gga5To6.DSE7.bb
+	bigDataUrl SEA00601.E.gga5To6.DSE7.bb
 	color 5,5,5
 	visibility dense
 	configurable on
 
-	track DSE9.SE
+	track DSE9.E
 	parent SEA00601_gga5To6_typical_enhancer
-	shortLabel DSE9.SE.SEA00601
-	longLabel DSE9.SE.SEA00601
+	shortLabel DSE9.E.SEA00601
+	longLabel DSE9.E.SEA00601
 	type bigBed
-	bigDataUrl SEA00601.SE.gga5To6.DSE9.bb
+	bigDataUrl SEA00601.E.gga5To6.DSE9.bb
 	color 5,5,5
 	visibility dense
 	configurable on
 
-	track TSE9.SE
+	track TSE9.E
 	parent SEA00601_gga5To6_typical_enhancer
-	shortLabel TSE9.SE.SEA00601
-	longLabel TSE9.SE.SEA00601
+	shortLabel TSE9.E.SEA00601
+	longLabel TSE9.E.SEA00601
 	type bigBed
-	bigDataUrl SEA00601.SE.gga5To6.TSE9.bb
+	bigDataUrl SEA00601.E.gga5To6.TSE9.bb
 	color 5,5,5
 	visibility dense
 	configurable on
 
-	track TSE11.SE
+	track TSE11.E
 	parent SEA00601_gga5To6_typical_enhancer
-	shortLabel TSE11.SE.SEA00601
-	longLabel TSE11.SE.SEA00601
+	shortLabel TSE11.E.SEA00601
+	longLabel TSE11.E.SEA00601
 	type bigBed
-	bigDataUrl SEA00601.SE.gga5To6.TSE11.bb
+	bigDataUrl SEA00601.E.gga5To6.TSE11.bb
 	color 5,5,5
 	visibility dense
 	configurable on
 
-	track MC.SE
+	track MC.E
 	parent SEA00601_gga5To6_typical_enhancer
-	shortLabel MC.SE.SEA00601
-	longLabel MC.SE.SEA00601
+	shortLabel MC.E.SEA00601
+	longLabel MC.E.SEA00601
 	type bigBed
-	bigDataUrl SEA00601.SE.gga5To6.MC.bb
+	bigDataUrl SEA00601.E.gga5To6.MC.bb
 	color 5,5,5
 	visibility dense
 	configurable on
 
-	track SNT.SE
+	track SNT.E
 	parent SEA00601_gga5To6_typical_enhancer
-	shortLabel SNT.SE.SEA00601
-	longLabel SNT.SE.SEA00601
+	shortLabel SNT.E.SEA00601
+	longLabel SNT.E.SEA00601
 	type bigBed
-	bigDataUrl SEA00601.SE.gga5To6.SNT.bb
+	bigDataUrl SEA00601.E.gga5To6.SNT.bb
 	color 5,5,5
 	visibility dense
 	configurable on
 
-	track ENCCS11-14.SE
+	track ENCCS11-14.E
 	parent SEA00601_gga5To6_typical_enhancer
-	shortLabel ENCCS11-14.SE.SEA00601
-	longLabel ENCCS11-14.SE.SEA00601
+	shortLabel ENCCS11-14.E.SEA00601
+	longLabel ENCCS11-14.E.SEA00601
 	type bigBed
-	bigDataUrl SEA00601.SE.gga5To6.ENCCS11-14.bb
+	bigDataUrl SEA00601.E.gga5To6.ENCCS11-14.bb
 	color 5,5,5
 	visibility dense
 	configurable on
 
-	track ENCCS20.SE
+	track ENCCS20.E
 	parent SEA00601_gga5To6_typical_enhancer
-	shortLabel ENCCS20.SE.SEA00601
-	longLabel ENCCS20.SE.SEA00601
+	shortLabel ENCCS20.E.SEA00601
+	longLabel ENCCS20.E.SEA00601
 	type bigBed
-	bigDataUrl SEA00601.SE.gga5To6.ENCCS20.bb
+	bigDataUrl SEA00601.E.gga5To6.ENCCS20.bb
 	color 5,5,5
 	visibility dense
 	configurable on
 
-	track HH16WE.SE
+	track HH16WE.E
 	parent SEA00601_gga5To6_typical_enhancer
-	shortLabel HH16WE.SE.SEA00601
-	longLabel HH16WE.SE.SEA00601
+	shortLabel HH16WE.E.SEA00601
+	longLabel HH16WE.E.SEA00601
 	type bigBed
-	bigDataUrl SEA00601.SE.gga5To6.HH16WE.bb
+	bigDataUrl SEA00601.E.gga5To6.HH16WE.bb
 	color 5,5,5
 	visibility dense
 	configurable on
 
-	track HH21WE.SE
+	track HH21WE.E
 	parent SEA00601_gga5To6_typical_enhancer
-	shortLabel HH21WE.SE.SEA00601
-	longLabel HH21WE.SE.SEA00601
+	shortLabel HH21WE.E.SEA00601
+	longLabel HH21WE.E.SEA00601
 	type bigBed
-	bigDataUrl SEA00601.SE.gga5To6.HH21WE.bb
+	bigDataUrl SEA00601.E.gga5To6.HH21WE.bb
 	color 5,5,5
 	visibility dense
 	configurable on
 
-	track HH32WE.SE
+	track HH32WE.E
 	parent SEA00601_gga5To6_typical_enhancer
-	shortLabel HH32WE.SE.SEA00601
-	longLabel HH32WE.SE.SEA00601
+	shortLabel HH32WE.E.SEA00601
+	longLabel HH32WE.E.SEA00601
 	type bigBed
-	bigDataUrl SEA00601.SE.gga5To6.HH32WE.bb
+	bigDataUrl SEA00601.E.gga5To6.HH32WE.bb
 	color 5,5,5
 	visibility dense
 	configurable on
 
-	track HH21DL.SE
+	track HH21DL.E
 	parent SEA00601_gga5To6_typical_enhancer
-	shortLabel HH21DL.SE.SEA00601
-	longLabel HH21DL.SE.SEA00601
+	shortLabel HH21DL.E.SEA00601
+	longLabel HH21DL.E.SEA00601
 	type bigBed
-	bigDataUrl SEA00601.SE.gga5To6.HH21DL.bb
+	bigDataUrl SEA00601.E.gga5To6.HH21DL.bb
 	color 5,5,5
 	visibility dense
 	configurable on
 
-	track HH32DL.SE
+	track HH32DL.E
 	parent SEA00601_gga5To6_typical_enhancer
-	shortLabel HH32DL.SE.SEA00601
-	longLabel HH32DL.SE.SEA00601
+	shortLabel HH32DL.E.SEA00601
+	longLabel HH32DL.E.SEA00601
 	type bigBed
-	bigDataUrl SEA00601.SE.gga5To6.HH32DL.bb
+	bigDataUrl SEA00601.E.gga5To6.HH32DL.bb
 	color 5,5,5
 	visibility dense
 	configurable on
