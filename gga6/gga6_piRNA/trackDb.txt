@@ -606,6 +606,7 @@ track SEA00601_gga5To6_super_enhancer
 superTrack on show
 shortLabel gga_super_enhancers
 longLabel gga_super_enhancer_SEA00601_gga5To6
+showSubtrackColorOnUi on
 	
 	track DSE7.SE
 	parent SEA00601_gga5To6_super_enhancer
@@ -741,6 +742,7 @@ track SEA00601_gga5To6_typical_enhancer
 superTrack on show
 shortLabel gga_typical_enhancers
 longLabel gga_typical_enhancer_SEA00601_gga5To6
+showSubtrackColorOnUi on
 	
 	track DSE7.TE
 	parent SEA00601_gga5To6_typical_enhancer
