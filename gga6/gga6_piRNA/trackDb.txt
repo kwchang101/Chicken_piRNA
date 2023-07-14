@@ -748,7 +748,7 @@ longLabel gga_typical_enhancer_SEA00601_gga5To6
 	longLabel DSE7.TE.SEA00601
 	type bigBed
 	bigDataUrl SEA00601.TE.gga5To6.DSE7.bb
-	color 5,5,5
+	color 8,8,8
 	visibility dense
 	configurable on
 
@@ -758,7 +758,7 @@ longLabel gga_typical_enhancer_SEA00601_gga5To6
 	longLabel DSE9.TE.SEA00601
 	type bigBed
 	bigDataUrl SEA00601.TE.gga5To6.DSE9.bb
-	color 5,5,5
+	color 8,8,8
 	visibility dense
 	configurable on
 
@@ -768,7 +768,7 @@ longLabel gga_typical_enhancer_SEA00601_gga5To6
 	longLabel TSE9.TE.SEA00601
 	type bigBed
 	bigDataUrl SEA00601.TE.gga5To6.TSE9.bb
-	color 5,5,5
+	color 8,8,8
 	visibility dense
 	configurable on
 
@@ -778,7 +778,7 @@ longLabel gga_typical_enhancer_SEA00601_gga5To6
 	longLabel TSE11.TE.SEA00601
 	type bigBed
 	bigDataUrl SEA00601.TE.gga5To6.TSE11.bb
-	color 5,5,5
+	color 8,8,8
 	visibility dense
 	configurable on
 
@@ -788,7 +788,7 @@ longLabel gga_typical_enhancer_SEA00601_gga5To6
 	longLabel MC.TE.SEA00601
 	type bigBed
 	bigDataUrl SEA00601.TE.gga5To6.MC.bb
-	color 5,5,5
+	color 8,8,8
 	visibility dense
 	configurable on
 
@@ -798,7 +798,7 @@ longLabel gga_typical_enhancer_SEA00601_gga5To6
 	longLabel SNT.TE.SEA00601
 	type bigBed
 	bigDataUrl SEA00601.TE.gga5To6.SNT.bb
-	color 5,5,5
+	color 8,8,8
 	visibility dense
 	configurable on
 
@@ -808,7 +808,7 @@ longLabel gga_typical_enhancer_SEA00601_gga5To6
 	longLabel ENCCS11-14.TE.SEA00601
 	type bigBed
 	bigDataUrl SEA00601.TE.gga5To6.ENCCS11-14.bb
-	color 5,5,5
+	color 8,8,8
 	visibility dense
 	configurable on
 
@@ -818,7 +818,7 @@ longLabel gga_typical_enhancer_SEA00601_gga5To6
 	longLabel ENCCS20.TE.SEA00601
 	type bigBed
 	bigDataUrl SEA00601.TE.gga5To6.ENCCS20.bb
-	color 5,5,5
+	color 8,8,8
 	visibility dense
 	configurable on
 
@@ -828,7 +828,7 @@ longLabel gga_typical_enhancer_SEA00601_gga5To6
 	longLabel HH16WE.TE.SEA00601
 	type bigBed
 	bigDataUrl SEA00601.TE.gga5To6.HH16WE.bb
-	color 5,5,5
+	color 8,8,8
 	visibility dense
 	configurable on
 
@@ -838,7 +838,7 @@ longLabel gga_typical_enhancer_SEA00601_gga5To6
 	longLabel HH21WE.TE.SEA00601
 	type bigBed
 	bigDataUrl SEA00601.TE.gga5To6.HH21WE.bb
-	color 5,5,5
+	color 8,8,8
 	visibility dense
 	configurable on
 
@@ -848,7 +848,7 @@ longLabel gga_typical_enhancer_SEA00601_gga5To6
 	longLabel HH32WE.TE.SEA00601
 	type bigBed
 	bigDataUrl SEA00601.TE.gga5To6.HH32WE.bb
-	color 5,5,5
+	color 8,8,8
 	visibility dense
 	configurable on
 
@@ -858,7 +858,7 @@ longLabel gga_typical_enhancer_SEA00601_gga5To6
 	longLabel HH21DL.TE.SEA00601
 	type bigBed
 	bigDataUrl SEA00601.TE.gga5To6.HH21DL.bb
-	color 5,5,5
+	color 8,8,8
 	visibility dense
 	configurable on
 
@@ -868,6 +868,6 @@ longLabel gga_typical_enhancer_SEA00601_gga5To6
 	longLabel HH32DL.TE.SEA00601
 	type bigBed
 	bigDataUrl SEA00601.TE.gga5To6.HH32DL.bb
-	color 5,5,5
+	color 8,8,8
 	visibility dense
 	configurable on
