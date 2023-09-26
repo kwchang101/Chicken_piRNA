@@ -1,2 +1,2 @@
 genome galGal6
-trackDb gga6_piRNA/trackDb.txt
+trackDb gga6_piRNA_project/trackDb.txt
