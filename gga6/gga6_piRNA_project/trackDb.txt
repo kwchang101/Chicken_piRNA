@@ -886,6 +886,8 @@ longLabel gga6_H3K27ac_embryo_gonad_PRJNA766745
 
 	track H3K27ac_gonad_HH24_MR
 	parent gga6_H3K27ac_embryo_gonad 
+	shortLabel H3K27ac_E5.5G_MR
+	longLabel H3K27ac_E5.5_gonad_MR_PRJNA766745
 	type bigWig
 	bigDataUrl H3K27ac_HH24_MR_gonad_bamCoverage.bw
 	color 5,5,5
@@ -897,6 +899,8 @@ longLabel gga6_H3K27ac_embryo_gonad_PRJNA766745
 		
 	track H3K27ac_gonad_HH24_ML
 	parent gga6_H3K27ac_embryo_gonad 
+	shortLabel H3K27ac_E5.5G_ML
+	longLabel H3K27ac_E5.5_gonad_ML_PRJNA766745
 	type bigWig
 	bigDataUrl H3K27ac_HH24_ML_gonad_bamCoverage.bw
 	color 5,5,5
@@ -908,6 +912,8 @@ longLabel gga6_H3K27ac_embryo_gonad_PRJNA766745
 		
 	track Input_gonad_HH25_F
 	parent gga6_H3K27ac_embryo_gonad 
+	shortLabel Input_E5.5G_F
+	longLabel Input_E5.5_gonad_F_PRJNA766745
 	type bigWig
 	bigDataUrl Input_HH25_F_gonad_bamCoverage.bw
 	color 5,5,5
