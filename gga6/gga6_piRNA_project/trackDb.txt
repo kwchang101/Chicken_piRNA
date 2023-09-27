@@ -574,11 +574,11 @@ longLabel gga6_hatched_piRNA_GSE165330_oxidized
 		color 50,200,0
 		autoScale on
 
-	track AT_piRNA
+	track AT_piRNA_2
 	parent gga6_hatched_piRNA 
 	container multiWig
-	shortLabel AT_gga6_piRNA 
-	longLabel AT_gga6_piRNA 
+	shortLabel AT_gga6_piRNA_2 
+	longLabel AT_gga6_piRNA_2 
 	type bigWig
 	visibility full
 	maxHeightPixels 100:60:25
@@ -589,19 +589,19 @@ longLabel gga6_hatched_piRNA_GSE165330_oxidized
 	showSubtrackColorOnUi on
 	priority 1.0
 
-		track AT_piRNA_pos
-		parent AT_piRNA
-		shortLabel AT_piRNA_pos
-		longLabel AT_piRNA_pos
+		track AT_piRNA_2_pos
+		parent AT_piRNA_2
+		shortLabel AT_piRNA_2_pos
+		longLabel AT_piRNA_2_pos
 		type bigWig
 		bigDataUrl AT_2.pMatch.24-34.plus.bw
 		color 200,50,0
 		autoScale on
 
-		track AT_piRNA_neg
-		parent AT_piRNA
-		shortLabel AT_piRNA_neg
-		longLabel AT_piRNA_neg
+		track AT_piRNA_2_neg
+		parent AT_piRNA_2
+		shortLabel AT_piRNA_2_neg
+		longLabel AT_piRNA_2_neg
 		type bigWig
 		bigDataUrl AT_2.pMatch.24-34.minus.bw
 		color 50,200,0
