@@ -884,6 +884,16 @@ superTrack on show
 shortLabel gga6_H3K27ac_Emb_gonad
 longLabel gga6_H3K27ac_embryo_gonad_PRJNA766745
 
+	track HH24_Gonad_ML.E
+	parent gga6_H3K27ac_embryo_gonad
+	shortLabel HH24_Gonad_ML.E
+	longLabel HH24_Gonad_ML.E
+	type bigBed
+	bigDataUrl H3K27ac_HH24_ML_gonad_MACS2_gt20E.bb
+	color 8,8,8
+	visibility dense
+	configurable on
+
 	track H3K27ac_gonad_HH24_MR
 	parent gga6_H3K27ac_embryo_gonad 
 	shortLabel H3K27ac_E5.5G_MR
