@@ -894,6 +894,16 @@ longLabel gga6_H3K27ac_embryo_gonad_PRJNA766745
 	visibility dense
 	configurable on
 
+	track HH24_Gonad_MR.E
+	parent gga6_H3K27ac_embryo_gonad
+	shortLabel HH24_Gonad_MR.E
+	longLabel HH24_Gonad_MR.E
+	type bigBed
+	bigDataUrl H3K27ac_HH24_MR_gonad_MACS2_gt20E.bb
+	color 8,8,8
+	visibility dense
+	configurable on
+
 	track H3K27ac_gonad_HH24_MR
 	parent gga6_H3K27ac_embryo_gonad 
 	shortLabel H3K27ac_E5.5G_MR
