@@ -12,7 +12,7 @@ longLabel gga6_embryonic_piRNA_GSE98005_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -45,7 +45,7 @@ longLabel gga6_embryonic_piRNA_GSE98005_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -78,7 +78,7 @@ longLabel gga6_embryonic_piRNA_GSE98005_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -111,7 +111,7 @@ longLabel gga6_embryonic_piRNA_GSE98005_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -144,7 +144,7 @@ longLabel gga6_embryonic_piRNA_GSE98005_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -177,7 +177,7 @@ longLabel gga6_embryonic_piRNA_GSE98005_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -210,7 +210,7 @@ longLabel gga6_embryonic_piRNA_GSE98005_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -243,7 +243,7 @@ longLabel gga6_embryonic_piRNA_GSE98005_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -281,7 +281,7 @@ longLabel gga6_adult_piRNA_GSM1096613_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -319,7 +319,7 @@ longLabel gga6_hatched_piRNA_GSE165330_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -352,7 +352,7 @@ longLabel gga6_hatched_piRNA_GSE165330_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -385,7 +385,7 @@ longLabel gga6_hatched_piRNA_GSE165330_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -418,7 +418,7 @@ longLabel gga6_hatched_piRNA_GSE165330_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -451,7 +451,7 @@ longLabel gga6_hatched_piRNA_GSE165330_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -484,7 +484,7 @@ longLabel gga6_hatched_piRNA_GSE165330_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -517,7 +517,7 @@ longLabel gga6_hatched_piRNA_GSE165330_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -550,7 +550,7 @@ longLabel gga6_hatched_piRNA_GSE165330_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
@@ -583,7 +583,7 @@ longLabel gga6_hatched_piRNA_GSE165330_oxidized
 	visibility full
 	maxHeightPixels 100:60:25
 	configurable on
-	autoScale off
+	autoScale on
 	alwaysZero on
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
